@@ -1,8 +1,8 @@
 ## Hey there 👋🏻 ! Sai Pratap Challa Here.
 
 - 👩🏻‍💻 I like to build cool stuff.
-- ⛓️ I am currently learning and exploring WEB3 & BLOCKCHAIN.
-- 🎯 Goal 2024: Become a Sassy Developer!!
+- ⛓️ I am currently learning and exploring AI Tools & LLM's.
+- 🎯 Goal 2025: Become a Sassy Developer!!
 
 
 
