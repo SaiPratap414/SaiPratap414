@@ -7,7 +7,7 @@
 ### About
 
 - 🏢 **Java Developer** at Broadridge Financial Solutions, Bangalore  
-- 🏅 Worked as Full Stack Developer at Illiquid Labs Gaming Studio (MERN, Angular, Java, Python, AI/ML LLMs, Web3)  
+- 🏅 Worked as FrontEND Developer at Illiquid Labs Gaming Studio (MERN, Angular, Java, Python, AI/ML LLMs, Web3)  
 - 🎯 **Goal 2025:** Become a Sassy Developer!!
 - 🧑‍💻 I love building cool stuff and exploring AI tools & LLMs
 
