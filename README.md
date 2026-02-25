@@ -8,7 +8,7 @@
 
 - 🏢 **Java Developer** at Broadridge Financial Solutions, Bangalore  
 - 🏅 Worked as FrontEND Developer at Illiquid Labs Gaming Studio (MERN, Angular, Java, Python, AI/ML LLMs, Web3)  
-- 🎯 **Goal 2025:** Become a Sassy Developer!!
+- 🎯 **Goal 2026:** Become an AI  Engineer!!
 - 🧑‍💻 I love building cool stuff and exploring AI tools & LLMs
 
 ---
@@ -24,7 +24,7 @@
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="32" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="32" title="Angular"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" title="Spring Boot"/>
   <!-- DevOps & DB -->
@@ -32,9 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" title="MySQL"/>
-  <!-- AI/ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32" title="PyTorch"/>
   <!-- Blockchain/Web3 (no official devicon, using generic blockchain) -->
   <img src="https://img.shields.io/badge/-Blockchain-181717?logo=blockchaindotcom&logoColor=white&style=flat-square" height="32" title="Blockchain"/>
 </p>
